@@ -1,6 +1,6 @@
 ### 🌱 I’m currently learning Computer Aided Design (OpenScad).
 ### 👯 I’m looking to collaborate on the future of manufacturing.
-### 🤔 I’m looking for help with my programming and algorithm literacy.
+### 🔭 I’m currently working with OpenSCAD and Racket(Scheme).
 ### 📫 How to reach me: Gabrielrobinson000@gmail.com, Main Cell (815)596-0270
 ### ⚡ Fun fact: DFTBA
 
